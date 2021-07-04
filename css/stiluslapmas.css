@@ -1,0 +1,9 @@
+
+@import url('stiluslap.css');
+
+header, #header, main, footer, #main, #footer {
+	font-size: 135%;
+}
+
+a#nagy {display: none;}
+a#norm {display: block;}
